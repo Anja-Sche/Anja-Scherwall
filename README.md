@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Anja Scherwall
-
+# 👋 Hi, I'm Anja
 I'm currently studying to become a Data Engineer. This is my portfolio – a collection of projects, assignments, and upcoming coursework from my studies.
 
 <br>
