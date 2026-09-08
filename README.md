@@ -57,53 +57,53 @@ This is my portfolio – a growing collection of projects, assignments, and expl
 
 ### 💻 Languages & Databases
 **Python:** OOP, Pydantic (Data Validation), uv (Package Management)  
-**SQL:** Advanced Joins, CTEs, Window Functions
-**Databases:** DuckDB, PostgreSQL, SQLite, MySQL
+**SQL:** Advanced Joins, CTEs, Window Functions  
+**Databases:** DuckDB, PostgreSQL, SQLite, MySQL  
 **PySpark:** Distributed data processing
 
 ---
 
 ### 🔄 Data Engineering & ETL
 **dlt:** Data Load Tool for ETL/ELT pipelines  
-**Pandas & NumPy:** Data manipulation and analysis
+**Pandas & NumPy:** Data manipulation and analysis  
 **Formats:** Parquet, CSV, JSON, Excel
 
 ---
 
 ### 🌐 Application & API
-**FastAPI & Uvicorn:** RESTful API development
+**FastAPI & Uvicorn:** RESTful API development  
 **HTTPX :** API requests
 
 ---
 
 ### ☁️ Cloud & Infrastructure
-**Azure:** App Services, Container Registry, cloud hosting 
-**Terraform:** Infrastructure as Code 
-**Docker:** Containerization and multi-container apps
-**Databricks:** Unified data analytics platform
+**Azure:** App Services, Container Registry, cloud hosting   
+**Terraform:** Infrastructure as Code   
+**Docker:** Containerization and multi-container apps  
+**Databricks:** Unified data analytics platform  
 
 ---
 
 ### 📊 Visualization & BI
-**Matplotlib:** Data visualization
-**Power BI:** Business intelligence dashboards
-**Streamlit:** Frontend dashboards and data visualization
+**Matplotlib:** Data visualization  
+**Power BI:** Business intelligence dashboards  
+**Streamlit:** Frontend dashboards and data visualization  
 **Evidence:** BI as code
 
 ---
 
 ### 🧠 Architecture & Modeling
-**ERD:** Conceptual, Logical, Physical Modeling 
-**Data Modelling:** Normalization, 3NF
-**Dimensional Modeling:** Star Schema
+**ERD:** Conceptual, Logical, Physical Modeling   
+**Data Modelling:** Normalization, 3NF  
+**Dimensional Modeling:** Star Schema  
 **Medallion Architecture:** Bronze → Silver → Gold
 
 ---
 
 ### 🛠️ DevOps & Tooling
-**Git/GitHub:** Version control
-**Docker Compose:** Multi-container orchestration 
-**Bash/Terminal:** Shell scripting
+**Git/GitHub:** Version control  
+**Docker Compose:** Multi-container orchestration   
+**Bash/Terminal:** Shell scripting  
 **Virtual Environments:** uv, .venv, pyproject.toml
 
 
