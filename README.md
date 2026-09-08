@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Anja
-I'm currently studying to become a Data Engineer. This is my portfolio – a collection of projects, assignments, and upcoming coursework from my studies.
+I'm a Data Engineering student at STI – Stockholms Tekniska Institut, with a strong interest in data pipelines, cloud solutions, and making data useful. I believe that well-structured data is the foundation for great insights and smarter decisions.
+
+This is my portfolio – a growing collection of projects, assignments, and explorations from my studies. Feel free to look around and reach out if you have questions or just want to connect!
 
 <br>
-
 
 ## 📁 Projects
 
@@ -30,43 +31,83 @@ I'm currently studying to become a Data Engineer. This is my portfolio – a col
   Group project with sprints and MVP. Built a product including ETL, FastAPI endpoints, and Docker.  
   🎯 *Role: Scrum Master & Developer.*
 
+### ⚙️ Data visualization
+- **[Global Music Trends & Cultural Insights - Group project with UX](https://github.com/JohnnyHyytiainen/DEUX2025_music_project)**  
+  An agile collaboration between DE25 and UX25 students. Explored, cleand and visualized a large amount of data to uncover trends, cultural differences and how music forms have shifted. We started with a PowerBI dashboard and later recreated it in Streamlit.
+
+### ⚙️ Big Data and Cloud
+- **[Marathos Data Platform- Databricks](https://github.com/Anja-Sche/marathos_anja_scherwall)**  
+  An end-to-end platform built in Databricks using a medallion architecture (Bronze → Silver → Gold). The project involved EDA, data ingestion, cleaning, dimensional modeling, a Databricks dashboard, and Databricks Genie AI. The pipeline was scheduled and tested on a second dataset to ensure reliability.
+
+- **[eClipseBord - fullstack, docker and cloud](https://github.com/Anja-Sche/eClipseBord-FastlyDep_Anja_Scherwall)**  
+  A fullstack application for visualizing lunar eclipse data. The backend, built with FastAPI, serves data via REST endpoints, while the frontend, developed in Streamlit, provides an interactive dashboard. The application is containerized using Docker, with separate containers for backend and frontend to ensure independent development and deployment. The infrastructure is deployed on Azure using Terraform, enabling automated provisioning and public access.
+
 <br>
 
 
 ## 📚 Upcoming Courses
 
-- ☁️ Big Data and Cloud – Practical development and NoSQL *(starting soon)*
-- 🏗️ Data Warehouse Lifecycle *(next)*
+- 🏗️ Data Warehouse Lifecycle *(current)*
 - 🤖 AI Ops
 - 📝 Examensarbete *(final project)*
+
 <br>
 
-## 🔧 Tech Stack (so far)
+## 🔧 Tech Stack 
 
-### 💻 Languages
+### 💻 Languages & Databases
 **Python:** OOP, Pydantic (Data Validation), uv (Package Management)  
-**SQL:** DuckDB, PostgreSQL (Advanced Joins, CTEs, Window Functions)
+**SQL:** Advanced Joins, CTEs, Window Functions
+**Databases:** DuckDB, PostgreSQL, SQLite, MySQL
+**PySpark:** Distributed data processing
 
 ---
 
-### 🔄 Data Engineering & Orchestration
-**ETL/ELT:** dlt (Data Load Tool)  
-**API Development:** FastAPI, Uvicorn, RESTful Design
-
----
-### 📊 Libraries & Analytics
-**Data Science:** Pandas, NumPy, Matplotlib  
-**Database Tools:** DuckDB-Python
+### 🔄 Data Engineering & ETL
+**dlt:** Data Load Tool for ETL/ELT pipelines  
+**Pandas & NumPy:** Data manipulation and analysis
+**Formats:** Parquet, CSV, JSON, Excel
 
 ---
 
-### 🏛️ Architecture & DevOps
-**Modeling:** ERD, UML, Normalization (3NF)  
-**Tooling:** Git/GitHub, Docker, Bash/Terminal, Virtual Environments  
-**Formats:** JSON, Parquet, CSV, Excel, XML
+### 🌐 Application & API
+**FastAPI & Uvicorn:** RESTful API development
+**HTTPX :** API requests
+
+---
+
+### ☁️ Cloud & Infrastructure
+**Azure:** App Services, Container Registry, cloud hosting 
+**Terraform:** Infrastructure as Code 
+**Docker:** Containerization and multi-container apps
+**Databricks:** Unified data analytics platform
+
+---
+
+### 📊 Visualization & BI
+**Matplotlib:** Data visualization
+**Power BI:** Business intelligence dashboards
+**Streamlit:** Frontend dashboards and data visualization
+**Evidence:** BI as code
+
+---
+
+### 🧠 Architecture & Modeling
+**ERD:** Conceptual, Logical, Physical Modeling 
+**Data Modelling:** Normalization, 3NF
+**Dimensional Modeling:** Star Schema
+**Medallion Architecture:** Bronze → Silver → Gold
+
+---
+
+### 🛠️ DevOps & Tooling
+**Git/GitHub:** Version control
+**Docker Compose:** Multi-container orchestration 
+**Bash/Terminal:** Shell scripting
+**Virtual Environments:** uv, .venv, pyproject.toml
+
 
 <br>
-
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/anja-scherwall-aba287382/)
